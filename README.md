@@ -10,16 +10,16 @@
 
 ### 🛠️ Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔐 Cybersecurity
+<!---### 🔐 Cybersecurity
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/SEU_USUARIO.png)](https://tryhackme.com/p/SEU_USUARIO)
 
 📝 CTF writeups: [thm-writeups](https://github.com/renzomelo0906/thm-writeups)
-
+--->
 ### 📌 Featured Projects
 
 - [**c-basics**](https://github.com/renzomelo0906/c-basics) 
