@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm Renzo 👋</h1>
+<p align="center">
+  <img src="assets/banner.svg" alt="Renzo Melo — Cybersecurity student and indie dev at Gaming Wheat" width="100%">
+</p>
+
+<h2 align="center">Hi, I'm Renzo 👋</h2>
 
 <p align="center">
   Cybersecurity student (Tecnólogo em Cibersegurança) from Brazil · Indie game dev at <b>Gaming Wheat</b>
