@@ -22,7 +22,7 @@
 
 - 🎓 Studying for a **Tecnólogo em Cibersegurança** (Cybersecurity degree)
 - 🎮 Building **[Dust Field](https://dustfield.netlify.app/)**, a 2D top-down pixel art game in Godot 4 — every sprite drawn by me in Pixelorama
-- 📚 Currently learning **C#** and **Assembly**
+- 📚 Currently learning **C#** and **C**
 - 🌎 Portuguese (C2) · English (B1) · Spanish (B1)
 
 ### 📂 Featured projects
