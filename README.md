@@ -14,7 +14,8 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot 4">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://githubusercontent.com" alt="React Logo" width="40" height="40" />
+  <img src="https://shields.io" alt="React">
+
 </p>
 
 ---
