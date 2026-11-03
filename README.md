@@ -30,6 +30,7 @@
 
 | Project | What it is |
 | --- | --- |
+| [**Dust Field (BETA)**](https://github.com/renzomelo0906/dust-field-beta) | 2D top-down pixel art exploration game in Godot 4 — playable beta for Windows ([site](https://dustfield.netlify.app/)) |
 | [**c-projects**](https://github.com/renzomelo0906/c-projects) | C projects organized by level: junior → pleno → senior |
 | [Contact book](https://github.com/renzomelo0906/c-projects/tree/main/c-junior/agenda-contatos) | CLI contact book with `struct`s and file persistence |
 | [Tic-tac-toe](https://github.com/renzomelo0906/c-projects/tree/main/c-junior/jogo-da-velha) | Two-player terminal tic-tac-toe with win/draw detection |
@@ -41,7 +42,7 @@
 - [x] First junior-level C projects
 - [ ] Mid-level (pleno) C projects
 - [ ] C# and SQL repositories
-- [ ] Dust Field beta
+- [x] Dust Field beta
 - [ ] Cybersecurity labs and CTF writeups
 
 ---
